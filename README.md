@@ -55,10 +55,23 @@ Built for Lapis Group to replace paper-based leave tracking with a complete digi
 
 ## Developer
 
-**Shams Haqyar** — Team Lead, Technology @ Lapis Group
+**Shams Haqyar** — Team Lead, Technology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams-haqyar-373020136/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shamsulhaqHaqyar)
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shams-haqyar-373020136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shamsulhaqHaqyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shams.haqyar786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/93774189382"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%" />
+</p>
 
 ---
 
