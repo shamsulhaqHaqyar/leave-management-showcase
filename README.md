@@ -6,7 +6,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Live:** [senf.af/leave](https://senf.af/leave) · **Status:** Production · **Users:** 60+ employees
+**Live:** [senf.af/leave](https://senf.af/leave) · **Status:** Production · **Users:** 90+ employees
 
 ---
 
@@ -46,28 +46,6 @@ Built for Lapis Group to replace paper-based leave tracking with a complete digi
 **Frontend:** HTML5, CSS3, Vanilla JavaScript  
 **Security:** Bcrypt hashing, prepared statements, session-based auth  
 **Hosting:** Hostinger (Production)
-
-## Leave Types
-
-Annual (20d) · Sick (21d) · Casual (10d) · Hajj (15d) · Maternity (90d) · Marriage (3d) · Urgent (5d) · Educational (30d)
-
-*All entitlements configurable per employee*
-
-## Screenshots
-
-<details>
-<summary>View Screenshots</summary>
-
-### Employee Dashboard
-![Employee View](screenshots/employee-dashboard.png)
-
-### Manager Dashboard
-![Manager View](screenshots/manager-dashboard.png)
-
-### HR Tracker
-![HR View](screenshots/hr-tracker.png)
-
-</details>
 
 ## Deployment
 
